@@ -29,7 +29,7 @@ Example:
 
 ## 🚀 Live App
 
-Try it live here: **https://your-username-nba-total-predictor.streamlit.app**
+Try it live here: **https://rberemcqqkvtw3tnxfhcee.streamlit.app/**
 > Replace with your Streamlit link after deploy
 
 ## 📱 How To Use
