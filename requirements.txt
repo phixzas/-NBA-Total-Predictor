@@ -3,3 +3,4 @@ pandas
 requests
 pytz
 scikit-learn
+xgboost==3.4.1
