@@ -1,4 +1,6 @@
 # 🏀 NBA Total Predictor
+live link: **https://rberemcqqkvtw3tnxfhcee.streamlit.app/**
+
 
 Machine Learning model that predicts **Total Points (Over / Under)** for NBA games.
 
@@ -25,12 +27,11 @@ Built for 24-hour NBA slate - shows all games as `HOME v AWAY` like Bet9ja.
 | Edge < 2 | ❌ NO BET - SKIP |
 
 Example:
-> Model: 217.2 | Bet9ja Line: 225.5 | Edge: -8.3 | Pick: UNDER ✅ STRONG BET
+> Model: 217.2 | Sportbet Line: 225.5 | Edge: -8.3 | Pick: UNDER ✅ STRONG BET
 
 ## 🚀 Live App
 
 Try it live here: **https://rberemcqqkvtw3tnxfhcee.streamlit.app/**
-> Replace with your Streamlit link after deploy
 
 ## 📱 How To Use
 
